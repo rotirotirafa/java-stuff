@@ -6,8 +6,6 @@ public class Main {
         int age;
         age = 28;
 
-
-
         //var name = value; defined scope;
         var name = "Rafael";
         var surname = " Rotiroti";
@@ -22,6 +20,5 @@ public class Main {
 
         String printYearBorn = variables.YearOfBirthDate(age);
         System.out.println(printYearBorn);
-
     }
 }
